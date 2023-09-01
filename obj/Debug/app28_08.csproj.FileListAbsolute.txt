@@ -1,0 +1,11 @@
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.csproj.AssemblyReference.cache
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.Form1.resources
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.Properties.Resources.resources
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.csproj.GenerateResource.cache
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel\Documents\app28_08\app28_08\bin\Debug\app28_08.exe.config
+C:\Users\emmanuel\Documents\app28_08\app28_08\bin\Debug\app28_08.exe
+C:\Users\emmanuel\Documents\app28_08\app28_08\bin\Debug\app28_08.pdb
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.exe
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.pdb
+C:\Users\emmanuel\Documents\app28_08\app28_08\obj\Debug\app28_08.forms.FormProducts.resources
